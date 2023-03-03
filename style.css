@@ -9,7 +9,7 @@ body {
   color: yellow;
   margin: 0;
   padding: 20px 40px;
-background-color: blue;
+background-color: rgb(9, 9, 250);
   /* This will center anything on your page */
   display: flex;
   align-items: center;
